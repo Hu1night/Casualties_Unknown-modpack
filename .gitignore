@@ -1,0 +1,6 @@
+.d*
+*.dll
+*.ini
+*.json
+*.ttf
+*.xml
