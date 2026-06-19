@@ -1,6 +1,8 @@
 .d*
+*.7z
 *.dll
 *.ini
 *.json
 *.ttf
 *.xml
+*.zip
