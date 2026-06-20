@@ -1,8 +1,11 @@
 # 汉化联机hui整合
 ## 说明：
-这是一个联机、汉化、字体、体验优化由 Huinight 整合的覆盖包
+<div align="center">
+[![Latest Release](https://img.shields.io/github/v/release/Krokosha666/cas-unk-krokosha-multiplayer-coop?style=flat-square&include_prereleases&logo=github&label=Version)](https://github.com/Krokosha666/cas-unk-krokosha-multiplayer-coop/releases/latest)
+[![Game Version](https://img.shields.io/badge/Game_Version-v7.0.1-darkgreen?style=flat-square&logo=steam)](https://store.steampowered.com/app/4576510)
+</div>
 
-适用于[Casualties: Unknown](https://store.steampowered.com/app/4576490/) Demo v7.0.1
+这是一个联机、汉化、字体、体验优化由 Huinight 整合的覆盖包
 
 ## 食用方式：
 - [点我下载](https://github.com/Hu1night/Casualties_Unknown-modpack/releases/latest/)整合包
@@ -19,13 +22,13 @@
 - 基于wiki的物品描述
 
 ## 该整合包整合了以下资源：
-### mod列表：
+### Mod列表：
 - BepInEx(开源)：[BepInEx](https://github.com/BepInEx/BepInEx/)
     [5.4.23.5](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5)
 - 体验改善(闭源)：[QoL Unknown](https://github.com/jimmyking9999999/QoL-Unknown/)
     [1.0.4.5](https://github.com/jimmyking9999999/QoL-Unknown/releases/tag/v1.0.4.5)
 - 多人联机(闭源)：[KrokMP](https://github.com/Krokosha666/cas-unk-krokosha-multiplayer-coop)
-    [3.1.2](https://github.com/Krokosha666/cas-unk-krokosha-multiplayer-coop/releases/tag/v3.1.2)
+    [4.0.0](https://github.com/Krokosha666/cas-unk-krokosha-multiplayer-coop/releases/tag/v4.0.0)
 - 解锁层级(闭源)：[RemiyamuremodLayerUnlock](https://www.nexusmods.com/scavprototype/mods/47)
     [2.2.3.1](https://www.nexusmods.com/scavprototype/mods/47?tab=files&file_id=510)
 - 穿戴界面限位(开源)：[Wearable Array](https://www.nexusmods.com/scavprototype/mods/194)
@@ -39,6 +42,8 @@
     [1.1.0](https://github.com/Black-Moss/Console-Chinese/releases/tag/v1.1.0)
 - 联机mod显示(开源)：[ModNotifier](https://www.nexusmods.com/scavprototype/mods/216)
     [0.3](https://www.nexusmods.com/scavprototype/mods/216?tab=files&file_id=724)
+<!-- <details><summary>Mod效果展示</summary>
+</details> -->
 
 ### 文本列表：
 - 官方翻译文本：[简体中文 (中国)](https://github.com/Orsoniks/scavgame-locale)
