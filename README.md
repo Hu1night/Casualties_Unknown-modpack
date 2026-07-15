@@ -33,42 +33,36 @@
 内容类：
 
 1. 体验改善(闭源)：[QoL Unknown](https://github.com/jimmyking9999999/QoL-Unknown/)
-    [1.0.4.5](https://github.com/jimmyking9999999/QoL-Unknown/releases/tag/v1.0.4.5)
+    [1.0.4.8](https://github.com/jimmyking9999999/QoL-Unknown/releases/tag/v1.0.4.8)
 1. 多人联机(闭源)：[KrokMP](https://github.com/Krokosha666/cas-unk-krokosha-multiplayer-coop)
     [4.0.0](https://github.com/Krokosha666/cas-unk-krokosha-multiplayer-coop/releases/tag/v4.0.0)
 1. 解锁层级(闭源)：[RemiyamuremodLayerUnlock](https://www.nexusmods.com/scavprototype/mods/47)
-    [2.2.3.1](https://www.nexusmods.com/scavprototype/mods/47?tab=files&file_id=510)
+    [4.0.0.1](https://www.nexusmods.com/scavprototype/mods/47?tab=files&file_id=1235)
+1. 存档管理(开源)：[Cu-SaveManager](https://github.com/huanxin996/Cu-SaveManager)
+    [1.2.0](https://github.com/huanxin996/Cu-SaveManager/releases/tag/v1.2.0)
 
 优化类：
 
-<!-- 1. 制作选材优化(开源)：[Better Crafting Logic](https://github.com/BalaurBohemianBroken/cu-better-inventory-logic)
-	[1.0.5](https://github.com/BalaurBohemianBroken/cu-better-inventory-logic/releases/tag/1.0.5) -->
+1. 制作选材优化(开源)：[Better Crafting Logic](https://github.com/BalaurBohemianBroken/cu-better-inventory-logic)
+	[1.0.5](https://github.com/BalaurBohemianBroken/cu-better-inventory-logic/releases/tag/1.0.5)
 1. 穿戴界面限位(开源)：[Wearable Array](https://www.nexusmods.com/scavprototype/mods/194)
     [1.0.1](https://www.nexusmods.com/scavprototype/mods/194?tab=files&file_id=672)
 
 视觉类：
 
 1. 字体替换(闭源)：[FontLoader](https://github.com/Cero-Xspr/FontLoader-for-Casualties-Unknown)
-<!-- 1. 性能优化(开源)：[Performance Unknown](https://github.com/NaeNaeTart/Performance-Unknown)
-	[1.4.3](https://github.com/NaeNaeTart/Performance-Unknown/releases/tag/v1.4.3) -->
-1. 联机mod显示(开源)：[ModNotifier](https://www.nexusmods.com/scavprototype/mods/216)
-    [0.3](https://www.nexusmods.com/scavprototype/mods/216?tab=files&file_id=724)
-
-<!--前置类：
-
-ScavLib-->
 
 汉化类：
 
 1. 多人联机汉化(开源)：[KrokMP Chinese Supplement](https://github.com/TemperedBaku/KrokMPChineseSupplement)
-    [0.1.25 Beta](https://github.com/TemperedBaku/KrokMPChineseSupplement/releases/tag/v0.1.25)
+    [0.1.33 Beta](https://github.com/TemperedBaku/KrokMPChineseSupplement/releases/tag/v0.1.33)
 1. 体验改善汉化(闭源)：[zh-Hans QoL Unknown](https://github.com/031fox-ui/zh-Hans.QoL.Unknown)
-    [1.1.0](https://github.com/031fox-ui/zh-Hans.QoL.Unknown/releases/tag/v1.1.0)
+    [1.1.2](https://github.com/031fox-ui/zh-Hans.QoL.Unknown/releases/tag/v1.1.2)
 1. 控制台汉化(开源)：[Console-Chinese](https://github.com/Black-Moss/Console-Chinese)
-    [1.1.0](https://github.com/Black-Moss/Console-Chinese/releases/tag/v1.1.0)
+    [1.2.0](https://github.com/Black-Moss/Console-Chinese/releases/tag/v1.2.0)
 <!-- <details><summary>Mod效果展示</summary>
 </details> -->
 
 ### 翻译文本列表：
 1. 官方翻译文本：[简体中文 (中国)](https://github.com/Orsoniks/scavgame-locale)
-1. 维基简中文本：[Wiki Chinese](https://github.com/StreamWind114514/Casualties-Unknown-Simplified-Chinese-Wiki) [1.7.5](https://github.com/StreamWind114514/Casualties-Unknown-Simplified-Chinese-Wiki/releases/tag/v1.7.5)
+1. 维基简中文本：[CU Wiki Chinese Translations](https://github.com/dodo23333/cu-chinese-wiki-translations) [1.8.3](https://github.com/dodo23333/cu-chinese-wiki-translations/releases/tag/v1.8.3)
